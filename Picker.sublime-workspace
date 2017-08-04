@@ -1,0 +1,332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"h",
+				"h1	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/Picker/settings/__init__.py",
+			"settings":
+			{
+				"buffer_size": 92,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/Picker/settings/production.py",
+			"settings":
+			{
+				"buffer_size": 3116,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/Picker/settings/local.py",
+			"settings":
+			{
+				"buffer_size": 3113,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/Picker/settings/base.py",
+			"settings":
+			{
+				"buffer_size": 3113,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Coding/javacriptObjTreeTraverse/ObjTreeTraverse.html",
+		"/E/WebdevelopementBootcamp/paddingExmpl.html",
+		"/E/WebdevelopementBootcamp/paddingExmpl.css",
+		"/E/WebdevelopementBootcamp/TicTacToe.html",
+		"/C/inetpub/wwwroot/JSONProject/data.json",
+		"/E/WebdevelopementBootcamp/FormSolutions.html",
+		"/C/WebdevelopementBootcamp/Image gallaryBootstrap/gallary.html",
+		"/C/WebdevelopementBootcamp/07-Image-Blog-1/07_ImageBlog1/imageBlog1.html",
+		"/C/WebdevelopementBootcamp/07-Image-Blog-1/07_ImageBlog1/imageBlog1.css",
+		"/C/WebdevelopementBootcamp/BlogExcercise/Blog.css",
+		"/C/WebdevelopementBootcamp/BlogExcercise/Blog.html",
+		"/C/WebdevelopementBootcamp/09-Selector-Exercise-Starter/09_Selector_Exercise_Starter/selectorsExercise.html",
+		"/C/WebdevelopementBootcamp/Tictactoe.css",
+		"/C/WebdevelopementBootcamp/TicTacToe.html",
+		"/C/WebdevelopementBootcamp/09-Selector-Exercise-Starter/09_Selector_Exercise_Starter/selectors.css",
+		"/C/WebdevelopementBootcamp/10-Selector-Exercise-Solution/10_Selector_Exercise_Solution/solution.css",
+		"/C/WebdevelopementBootcamp/FormSolutions.html",
+		"/C/WebdevelopementBootcamp/pokemon.html",
+		"/C/WebdevelopementBootcamp/MyFirstProject.html",
+		"/C/WebdevelopementBootcamp/quiz1.html",
+		"/C/WebdevelopementBootcamp/MyFirstProject"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/Picker/settings/__init__.py",
+					"settings":
+					{
+						"buffer_size": 92,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								92
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/Picker/settings/production.py",
+					"settings":
+					{
+						"buffer_size": 3116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								729,
+								729
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/Picker/settings/local.py",
+					"settings":
+					{
+						"buffer_size": 3113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3113,
+								3113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1153.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/Picker/settings/base.py",
+					"settings":
+					{
+						"buffer_size": 3113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								3113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
