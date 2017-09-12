@@ -1,0 +1,40 @@
+
+
+<!DOCTYPE html>
+
+	<html lang=eng>
+	<head>
+	</head>
+	<body>
+
+	<h1>Hellow</h1>
+
+	<p>This is {{bool_item}} coming through</p>	
+
+	<p>
+	{% if bool_item %}
+
+	Randon number is {{num}}
+
+	{% endif %}
+
+	</p>
+
+	<p>
+		{% for some_item in some_list %}
+
+			{% if some_item|divisibleby:"2" %}
+
+			   Even Number
+
+			{% endif %}   
+
+			{{some_item}} <br/>
+
+
+		{% endfor %}
+
+	</p>
+
+	</body>
+	</html>

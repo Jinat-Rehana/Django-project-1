@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"html",
+				"html_"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
 				"pad",
 				"padding"
 			],
@@ -34,36 +46,32 @@
 			[
 				"co",
 				"color"
-			],
-			[
-				"h",
-				"h1	Tag"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "src/Picker/settings/__init__.py",
+			"file": "src/restaurants/views.py",
 			"settings":
 			{
-				"buffer_size": 92,
+				"buffer_size": 691,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "src/Picker/settings/production.py",
+			"file": "src/templates/base.html",
 			"settings":
 			{
-				"buffer_size": 3116,
+				"buffer_size": 384,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "src/Picker/settings/local.py",
+			"file": "src/Picker/urls.py",
 			"settings":
 			{
-				"buffer_size": 3113,
+				"buffer_size": 821,
 				"line_ending": "Windows"
 			}
 		},
@@ -71,7 +79,15 @@
 			"file": "src/Picker/settings/base.py",
 			"settings":
 			{
-				"buffer_size": 3113,
+				"buffer_size": 3148,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/Picker/settings/__init__.py",
+			"settings":
+			{
+				"buffer_size": 102,
 				"line_ending": "Windows"
 			}
 		}
@@ -100,6 +116,12 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Mafuf/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/E/DjangoProjects/Dev/PickerDjango-1.11/src/Picker/settings/__init__.py",
+		"/E/DjangoProjects/Dev/PickerDjango-1.11/src/Picker/settings/production.py",
+		"/E/DjangoProjects/Dev/PickerDjango-1.11/src/Picker/settings/local.py",
+		"/E/DjangoProjects/Dev/PickerDjango-1.11/src/Picker/settings/base.py",
+		"/E/DjangoProjects/Dev/PickerDjango-1.11/.gitignore",
 		"/E/Coding/javacriptObjTreeTraverse/ObjTreeTraverse.html",
 		"/E/WebdevelopementBootcamp/paddingExmpl.html",
 		"/E/WebdevelopementBootcamp/paddingExmpl.css",
@@ -160,18 +182,71 @@
 			[
 				{
 					"buffer": 0,
-					"file": "src/Picker/settings/__init__.py",
+					"file": "src/restaurants/views.py",
 					"settings":
 					{
-						"buffer_size": 92,
+						"buffer_size": 691,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								92,
-								92
+								614,
+								614
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/templates/base.html",
+					"settings":
+					{
+						"buffer_size": 384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								312,
+								312
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/Picker/urls.py",
+					"settings":
+					{
+						"buffer_size": 821,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								821,
+								821
 							]
 						],
 						"settings":
@@ -185,75 +260,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "src/Picker/settings/production.py",
-					"settings":
-					{
-						"buffer_size": 3116,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								729,
-								729
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/Picker/settings/local.py",
-					"settings":
-					{
-						"buffer_size": 3113,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3113,
-								3113
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1153.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
 					"buffer": 3,
 					"file": "src/Picker/settings/base.py",
 					"settings":
 					{
-						"buffer_size": 3113,
+						"buffer_size": 3148,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								3113
+								1552,
+								1552
 							]
 						],
 						"settings":
@@ -261,6 +280,32 @@
 							"syntax": "Packages/Python/Python.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 650.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/Picker/settings/__init__.py",
+					"settings":
+					{
+						"buffer_size": 102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								102
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
