@@ -7,34 +7,18 @@
 	</head>
 	<body>
 
-	<h1>Hellow</h1>
+	<h1>Picker.Com</h1>	
+	<a href="/">Home</a>
+	<a href="/home2/">home2</a>
+	<a href="/home3/">home3</a>
 
-	<p>This is {{bool_item}} coming through</p>	
+	<div class='container'>
+	{% block content %}
 
-	<p>
-	{% if bool_item %}
+     Hello there this is super!!!!!
 
-	Randon number is {{num}}
-
-	{% endif %}
-
-	</p>
-
-	<p>
-		{% for some_item in some_list %}
-
-			{% if some_item|divisibleby:"2" %}
-
-			   Even Number
-
-			{% endif %}   
-
-			{{some_item}} <br/>
-
-
-		{% endfor %}
-
-	</p>
+	{% endblock content%}
+	</div>
 
 	</body>
 	</html>
